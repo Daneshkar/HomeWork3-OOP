@@ -13,7 +13,7 @@
             Clothing tshirt = new Clothing("T-Shirt", 25.00, "Cotton", "M");
             Clothing jeans = new Clothing("Jeans", 60.00, "Cotton", "L");
             Clothing jacket = new Clothing("Jacket", 120.00, "Cotton", "XL");
-
+              
             Console.WriteLine("=== Adding Products to Store ===");
             store.AddProduct(laptop);
             store.AddProduct(smartphone);
